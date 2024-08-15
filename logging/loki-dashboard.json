@@ -2,7 +2,7 @@
     "__inputs": [
       {
         "name": "DS_LOKI",
-        "label": "grafanacloud-ss3rg3-logs",
+        "label": "Loki",
         "description": "",
         "type": "datasource",
         "pluginId": "loki",
